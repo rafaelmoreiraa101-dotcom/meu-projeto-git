@@ -1,4 +1,3 @@
-https://youtu.be/VQDvLV9yGPM
 
 # Projeto Integrador - Sistema de Vendas
 
